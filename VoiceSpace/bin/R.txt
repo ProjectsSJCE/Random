@@ -247,7 +247,7 @@ int id action_context_bar 0x7f05001d
 int id action_menu_divider 0x7f050016
 int id action_menu_presenter 0x7f050017
 int id action_mode_close_button 0x7f050024
-int id action_settings 0x7f05003f
+int id action_settings 0x7f050040
 int id activity_chooser_view_content 0x7f050025
 int id aircel 0x7f05003d
 int id airtel 0x7f05003c
@@ -294,7 +294,8 @@ int id showTitle 0x7f050006
 int id split_action_bar 0x7f05001e
 int id submit_area 0x7f050039
 int id tabMode 0x7f050002
-int id textbox1 0x7f05003e
+int id textbox1 0x7f05003f
+int id textbox2 0x7f05003e
 int id title 0x7f05002b
 int id top_action_bar 0x7f050020
 int id up 0x7f050021
@@ -348,6 +349,7 @@ int string airtel 0x7f0a0011
 int string app_name 0x7f0a000d
 int string device_admin_label 0x7f0a0013
 int string device_description 0x7f0a0012
+int string hello 0x7f0a0014
 int string hello_world 0x7f0a000e
 int style AppBaseTheme 0x7f0b008b
 int style AppTheme 0x7f0b008c

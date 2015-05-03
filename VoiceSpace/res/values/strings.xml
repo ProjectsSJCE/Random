@@ -8,5 +8,6 @@
 	<string name="airtel">AIRTEL</string>
 	<string name="device_description">DESCRIPTION</string>
 	<string name="device_admin_label">ADMINLABEL</string>
+	<string name="hello">HELLO</string>
 	
 </resources>
